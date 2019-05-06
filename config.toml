@@ -48,7 +48,7 @@ copyright = ""
 
   logoTitle = "Saltfish"
 
-  archive-paginate = 5
+  archive-paginate = 15
 
   dateFormatToUse = "2006-01-02"
 
