@@ -32,7 +32,9 @@ zjyl1994，专职程序员 & 业余游戏制作人。
 
 现在的博客算是第二代自建博客，用的静态网站生成器 + Markdown撰写，托管在自己的服务器上。
 
-这个博客基于 [Hugo静态网站生成器](https://gohugo.io/) 构建，搭配的 [Even主题](https://themes.gohugo.io/hugo-theme-even/)。通过云盘联动Hugo实现自动更新。
+这个博客基于 [Hugo静态网站生成器](https://gohugo.io/) 构建，搭配的 [Even主题](https://themes.gohugo.io/hugo-theme-even/)。通过 Github Webhook 联动 Hugo 实现自动更新。
+
+博客的源码托管在 [zjyl1994/blog](https://github.com/zjyl1994/blog) 。
 
 # 关于这些内容
 
