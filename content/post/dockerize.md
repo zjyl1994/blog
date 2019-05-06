@@ -134,9 +134,9 @@ docker run --name mariadb  --restart=always --network xxcloud -v /home/data/mysq
 
 **注意：**  MYSQL_ROOT_PASSWORD 这个密码一定要换成自己的，而且，这个仅限于第一次运行时设置。如果你的 /home/data/mysql 里有现成的 MySQL 数据，那么容器会使用现成数据里的密码。
 
-## PHPMYADMIN
+## phpMyAdmin
 
-### 安装 PHPMYADMIN
+### 安装 phpMyAdmin
 
 ```bash
 mkdir -p /home/data/phpmyadmin/themes
@@ -152,7 +152,7 @@ docker run --name phpmyadmin  --restart=always --network xxcloud -e PMA_HOST=mar
 | /home/data/phpmyadmin/config.user.inc.php | 配置文件 |
 | /home/data/phpmyadmin/themes | 放主题 |
 
-### 配置 PHPMYADMIN
+### 配置 phpMyAdmin
 
 #### 持久化高级设定
 
@@ -203,7 +203,7 @@ $cfg['DefaultLang'] = 'zh';
 要注意的是 `blowfish_secret` 需要你生成一个自己的密语，如果你不知道如何生成，可以点[这里](https://phpsolved.com/phpmyadmin-blowfish-secret-generator/)，每次刷新你都会得到一个新的随机密语。
 
 #### 配置主题
-PHPMYADMIN 的主题可以在 [https://www.phpmyadmin.net/themes/](https://www.phpmyadmin.net/themes/) 这里下载，下载之后可以在 PHPMYADMIN 首页主题处切换。
+phpMyAdmin 的主题可以在 [https://www.phpmyadmin.net/themes/](https://www.phpmyadmin.net/themes/) 这里下载，下载之后可以在 phpMyAdmin 首页主题处切换。
 
 **注意：** 下载后的主题需要解压后变成文件夹放在themes文件夹里。由于有 php 文件，所以最好使用官网上的主题，安全性比较高。
 
