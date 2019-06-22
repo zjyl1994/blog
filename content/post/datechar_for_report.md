@@ -24,7 +24,7 @@ categories: ["SQL"]
 | 李四 | 83 | 2017-06-25 19:34:00 |
 | 李四 | 23 | 2017-06-26 19:34:00 |
 
-如果想查某个时间段里的交易量报表，大概的 SQL 写完应该是这样的
+如果想查某个时间段里每个人的总交易金额报表，大概的 SQL 写完应该是这样的
 
 ```sql
 SELECT `staff_name`,SUM(`money`),(DATE_FORMAT(`time`, '%Y-%m-%d')) AS date_char
@@ -34,6 +34,8 @@ GROUP BY staff_name,date_char
 ```
 
 其中最重要的部分就是 date_char ,它决定了时间分组的粒度。
+
+<!--more-->
 
 常用的时间分组SQL见下表（使用时须将fieldName替换成真实数据库里的字段）
 
