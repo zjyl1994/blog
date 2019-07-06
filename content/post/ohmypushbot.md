@@ -10,7 +10,7 @@ categories: ["Golang"]
 
 > 前几天做的小玩具
 
-#OhMyPushBot
+# OhMyPushBot
 
 Telegram 是个有趣的聊天工具，最好玩的就是它十分开放 Bot 系统。相比于微信公众号这种层层审核还一堆限制，或者 QQ、微信 机器人这种强行扒官方协议的灰色接口，
 Telegram 提供的 API 非常简单。你可以用 Bot 管理 Channel，制作好玩的 Bot，这一切只需要和 BotFather 聊聊天，就可以设置并创建一个Bot，完全不需要等待审核。
