@@ -58,3 +58,8 @@ _斜体_
 
 为了防止无聊的人随机生成 ChatID 调用接口发送垃圾消息，我增加了一个简单的参数验证，接口的 sign 部分就是 ChatID 根据 BotToken 进行 HMAC-MD5 之后的结果。
 如果不知道的人想伪造 sign，从密码学角度来说几乎不可能。而且 HMAC 的 Key 是 BotToken，每个Bot都不一样，所以十分的安全。
+
+# 开源代码
+
+为了方便各位审计我的代码，我把代码托管到了 GitHub 上，地址是：[https://github.com/zjyl1994/telegram-push-bot](https://github.com/zjyl1994/telegram-push-bot)
+欢迎各位大佬和神仙拍砖。
