@@ -12,9 +12,18 @@ mathjax: false
 
 #  咱的朋友们
 
-在这个浮躁的时代，能静下心来写一篇博客的都不是一般人。
+现在这个时代是浮躁的时代，忙着赚钱忙着被生活压迫，已经很少有人能静下心坐下来写点什么。
 
-所以，隆重推荐我那些不一般的朋友给你们~
+相比于乱七八糟充满营销号贩卖焦虑的微信公众号，我更喜欢那种自己建站自己维护的独立博客。
 
-1. 前端大佬、音游菊苣 Rex Zeng &rArr; https://www.rexskz.info/
-2. Blessing Studio的欧根大佬 &rArr; https://blessing.studio/
+一个精心打磨的博客，背后都是一个充满工匠精神的灵魂。而这种人，正是现在快节奏社会所欠缺的。
+
+他们注定不会平凡。
+
+所以，隆重推荐我的朋友给你们，希望你们也能互相认识，成为好朋友~
+
+(按添加时间排序，排名不分先后)
+
+1. 各方各面的大佬 **Rex Zeng** &rArr; https://www.rexskz.info/
+1. Blessing Studio的 **欧根大佬** &rArr; https://blessing.studio/
+1. 前端、音游双料大佬 **Rikumi** &rArr; https://rikumi.github.io/
