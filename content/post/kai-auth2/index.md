@@ -14,6 +14,8 @@ categories: ["KaiOS"]
 
 如果没有耐心看下去也可以去 https://github.com/zjyl1994/KaiAuth/releases/ 直接下载最新版编译好的应用。
 
+<!--more-->
+
 ## 改进目标
 
 首先，需要确认改进点，旧版本的 KaiAuth 是这样的：
