@@ -10,7 +10,7 @@ categories: ["KaiOS"]
 
 > KaiAuth is a Google Authenticator alternative that works on KaiOS
 
-![KaiAuth logo](logo.png)
+![KaiAuth logo](https://blog.zjyl1994.com/post/introducing_kaiauth/logo.png)
 
 I am not a native speaker of English, so my English is very bad. I hope you can forgive me for bad grammar or spelling mistakes.
 
@@ -74,3 +74,5 @@ Unfortunately, I didn't find related tools, some of them are only rough implemen
 If you like my work, please give me star on GitHub. https://github.com/zjyl1994/KaiAuth
 
 Thanks for the help of Google Translate, I hope you can understand my bad English.
+
+Easter egg in logo: 86 is the international calling code of China, 0755 is the calling code of Shenzhen.
