@@ -14,6 +14,8 @@ categories: ["KaiOS"]
 
 I am not a native speaker of English, so my English is very bad. I hope you can forgive me for bad grammar or spelling mistakes.
 
+<!--more-->
+
 # Install
 ## WebIDE
 1. Download https://github.com/zjyl1994/KaiAuth/archive/master.zip .
@@ -54,13 +56,13 @@ Taking into account the actual needs, I have specially made some advanced featur
 
 You need to enter the following short codes using the keyboard in the KaiAuth app. Do not use these instructions in the phone dialer.
 
-### *#7370#
+### \*\#7370\#
 This is a reset shortcode for very old Nokia phones. The meaning here is to clear the data storage in the app. It will be very useful when you mess up your code list and need to re-import the correct data.
-### *#0000#
+### \*\#0000\#
 This is also the short code that very old Nokia will use, and now its role is to query the KaiAuth version you are running.
-### *#467678#
+### \*\#467678\#
 Load a file named kaiuth.json from the SD card into the code list, which is useful when you transfer an existing code list from another device, or use a previously prepared backup.
-### *#397678#
+### \*\#397678\#
 Exporting the current code list to a file named kaiuth.json in the SD card is very useful when backing up or transferring data to a new device.
 **Very important tip:** The exported data file contains sensitive information, please keep it in a safe place. Anyone who gets the data file can use these codes to access your account.
 
