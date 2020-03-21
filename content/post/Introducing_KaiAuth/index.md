@@ -8,7 +8,7 @@ categories: ["KaiOS"]
 
 ---
 
-> KaiAuth is a Google Authenticator alternative that works on KaiOS
+> KaiAuth is a simple alternative of Google Authenticator on KaiOS
 
 ![KaiAuth logo](https://blog.zjyl1994.com/post/introducing_kaiauth/logo.png)
 
@@ -46,12 +46,13 @@ There are two soft keys at the bottom, the left one means to add a new code, and
 Before deleting, you will be asked if you want to delete, so you do n’t need to worry about deleting an account profile mistakenly.
 
 Press the soft key named Add on the left,the application will switch to the scan QR code page.
+
 ### Scan QR code interface
 ![QR code scan](scan_qrcode.png)
 
-Scanning the QR code will pop up an application for using camera permissions. Click Allow to enter the above interface.
+To use the QR-code scanning feature, the application requires permission for using the camera. A dialog will popup to ask you whether you are going to grant it or not.
 
-Place the QR code in the camera area. If an available QR code is identified, it will automatically jump back to the main interface and add it to the code list.
+Place the QR-code into the camera's sight. If any valid QR-codes are identified, the application will automatically extract information contained in the QR-code then generate a new profile from the information. The new profile will then be shown in the main interface of the app.
 
 ## Advanced Features
 
