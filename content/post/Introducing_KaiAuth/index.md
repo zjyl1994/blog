@@ -17,11 +17,13 @@ I'm not a native speaker of English so there will be some mistakes in my sayings
 <!--more-->
 
 # Install
+
 ## WebIDE
 1. Download https://github.com/zjyl1994/KaiAuth/archive/master.zip .
 1. Extract this zip to a folder.
 1. Click "Open Packaged App" and select the folder from the previous step.
 1. Click "Install and Run" button.
+
 ## OmniSD
 1. Open https://github.com/zjyl1994/KaiAuth/releases/latest and download **kaiauth.zip**.
 1. Copy this zip file to the apps directory of the memory card.
