@@ -12,7 +12,7 @@ categories: ["KaiOS"]
 
 ![KaiAuth logo](https://blog.zjyl1994.com/post/introducing_kaiauth/logo.png)
 
-I am not a native speaker of English, so my English is very bad. I hope you can forgive me for bad grammar or spelling mistakes.
+I'm not a native speaker of English so there will be some mistakes in my sayings.
 
 <!--more-->
 
@@ -41,9 +41,9 @@ You can see a lot of TOTP codes on the screen, you can use the navigation keys t
 
 There are two soft keys at the bottom, the left one means to add a new code, and the right one means to delete the currently selected code.
 
-Before deleting, you will be asked if you want to delete, so you do n’t need to worry about mistakes.
+Before deleting, you will be asked if you want to delete, so you do n’t need to worry about deleting an account profile mistakenly.
 
-Press the soft key named Add on the left, the page will switch to the scan QR code page.
+Press the soft key named Add on the left,the application will switch to the scan QR code page.
 ### Scan QR code interface
 ![QR code scan](scan_qrcode.png)
 
@@ -52,19 +52,22 @@ Scanning the QR code will pop up an application for using camera permissions. Cl
 Place the QR code in the camera area. If an available QR code is identified, it will automatically jump back to the main interface and add it to the code list.
 
 ## Advanced Features
-Taking into account the actual needs, I have specially made some advanced features, which can be used in the form of short codes.
 
-You need to enter the following short codes using the keyboard in the KaiAuth app. Do not use these instructions in the phone dialer.
+Based on what I actually need, I have made some advanced features. They can be activated by pressing keys in some special sequences.
+Please enter these codes by sequence when you are opening KaiAuth. Entering these codes in the phone dialer has no effects at all.
 
 ### \*\#7370\#
-This is a reset shortcode for very old Nokia phones. The meaning here is to clear the data storage in the app. It will be very useful when you mess up your code list and need to re-import the correct data.
+Designed for very old Nokia phones. Will clean the data stored in the app. Very useful when you have messed up your code list and had to re-import the correct data.
+
 ### \*\#0000\#
-This is also the short code that very old Nokia will use, and now its role is to query the KaiAuth version you are running.
+Also useful when you are using an old Nokia. The version of the KaiAuth app will be shown after typing the sequence above.
+
 ### \*\#467678\#
-Load a file named kaiuth.json from the SD card into the code list, which is useful when you transfer an existing code list from another device, or use a previously prepared backup.
+Will automatically import profiles from a file kaiuth.json located in the SD card. Useful when you are transferring an existing profile list from another device, or restore profiles from a backup you previously made.
+
 ### \*\#397678\#
-Exporting the current code list to a file named kaiuth.json in the SD card is very useful when backing up or transferring data to a new device.
-**Very important tip:** The exported data file contains sensitive information, please keep it in a safe place. Anyone who gets the data file can use these codes to access your account.
+Will export current profiles stored in the application into a file named kaiuth.json in the SD card. Used for backing up or transferring profiles to a new device.
+WARNING: The file contains sensitive information, please keep it in a safe place. Anyone who gets the file can get access to your account by using profiles stored in the file!
 
 # Why i made it
 I bought a Nokia 2720 Flip, which runs KaiOS. I have many accounts protected with Google Authenticator. I hope that I can still query these codes and log in to my account on my computer when I am away from my smartphone, so I go to the Internet to search for related tools.
@@ -74,5 +77,7 @@ Unfortunately, I didn't find related tools, some of them are only rough implemen
 If you like my work, please give me star on GitHub. https://github.com/zjyl1994/KaiAuth
 
 Thanks for the help of Google Translate, I hope you can understand my bad English.
+
+Finally, I would like to say great thanks for the correction on semantics and words to the article from [Carina Nebula](https://twitter.com/Carina__Nebula)!
 
 Easter egg in logo: 86 is the international calling code of China, 0755 is the calling code of Shenzhen.
