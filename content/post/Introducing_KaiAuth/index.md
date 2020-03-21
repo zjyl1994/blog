@@ -63,11 +63,12 @@ Designed for very old Nokia phones. Will clean the data stored in the app. Very 
 Also useful when you are using an old Nokia. The version of the KaiAuth app will be shown after typing the sequence above.
 
 ### \*\#467678\#
-Will automatically import profiles from a file kaiuth.json located in the SD card. Useful when you are transferring an existing profile list from another device, or restore profiles from a backup you previously made.
+Will automatically import profiles from a file `kaiauth.json` located in the SD card. Useful when you are transferring an existing profile list from another device, or restore profiles from a backup you previously made.
 
 ### \*\#397678\#
-Will export current profiles stored in the application into a file named kaiuth.json in the SD card. Used for backing up or transferring profiles to a new device.
-WARNING: The file contains sensitive information, please keep it in a safe place. Anyone who gets the file can get access to your account by using profiles stored in the file!
+Will export current profiles stored in the application into a file named `kaiauth.json` in the SD card. Used for backing up or transferring profiles to a new device.
+
+**WARNING:** The file contains sensitive information, please keep it in a safe place. Anyone who gets the file can get access to your account by using profiles stored in the file!
 
 # Why i made it
 I bought a Nokia 2720 Flip, which runs KaiOS. I have many accounts protected with Google Authenticator. I hope that I can still query these codes and log in to my account on my computer when I am away from my smartphone, so I go to the Internet to search for related tools.
