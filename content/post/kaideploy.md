@@ -9,6 +9,7 @@ categories: ["KaiOS"]
 ---
 
 > 折腾 KaiOS 的我又搞了一个没什么人会用到的小工具
+
 # 引子
 最近折腾完 KaiAuth，就在 KaiOS 的交流群里和他们吹水。总能发现小白玩家连基本的操作都不懂却被迫折腾 adb，然后和 Palemoon 之类的过时火狐战斗，才能把应用装上。（有大把的人连 adb 都找不到）
 
@@ -304,6 +305,13 @@ func jsonEncodeBytes(byteArray []byte) *json.RawMessage {
 
 # 一些废话
 
-Kai OS 还是很有折腾潜力的，3月14日的时候 Mozilla 已经和 Kaiostech 达成协议。由 Mozilla 给 Kai OS 升级 Gecko 内核，新闻在这里 https://www.kaiostech.com/press/kaios-technologies-and-mozilla-partner-to-enable-a-healthy-mobile-internet-for-everyone/。重点在于，升级后的 Kai OS 速度会得到一系列更强的 Buff，毕竟现在的 Kai OS Gecko 还停留在 2016 的 48 版本。2017 年大把的特性更新还上了量子火狐，现在 Kai OS 一点没吃到。就是不知道未来的 HMD 能不能给 Nokia 2720 Flip 升级新内核了，估计很难。
+Kai OS 还是很有折腾潜力的，3月14日的时候 Mozilla 已经和 Kaiostech 达成协议。由 Mozilla 给 Kai OS 升级 Gecko 内核，
+新闻在这里 https://www.kaiostech.com/press/kaios-technologies-and-mozilla-partner-to-enable-a-healthy-mobile-internet-for-everyone/。
+
+重点在于，升级后的 Kai OS 速度会得到一系列更强的 Buff，毕竟现在的 Kai OS Gecko 还停留在 2016 的 48 版本。2017 年大把的特性更新还上了量子火狐，现在 Kai OS 一点没吃到。就是不知道未来的 HMD 能不能给 Nokia 2720 Flip 升级新内核了，估计很难。
 
 ![KaiOS-Mozilla](https://www.kaiostech.com/wp-content/uploads/KaiOS-Mozilla-Features.jpg)
+
+最后，完整的代码在这里: https://github.com/zjyl1994/kaideploy
+
+我已经借助 bat 批处理文件和 WinRAR 自解压做好了一个 自带 ADB 的 OmniSD 一键安装器，个人测试还是很方便使用的。
