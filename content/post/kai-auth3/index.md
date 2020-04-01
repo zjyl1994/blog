@@ -137,7 +137,7 @@ if (result!=null && result!=""){
 KaiOS 官方商店提交需要看一下 [官方提交文档](https://developer.kaiostech.com/submit-to-kaistore)。
 按照要求改造 `manifest.webapp` 既可。
 
-都做完之后登录 https://developer.kaiostech.com/devlogin，开始提交。
+都做完之后登录 [Submission Portal](https://developer.kaiostech.com/devlogin) ,开始提交。
 （神奇的是，这个页面不可以用之前注册的kaios防盗账户登录。所以我就重新注册了一个kaios账号。）
 
 ![submit_app](https://blog.zjyl1994.com/post/kai-auth3/submit_app.png)
