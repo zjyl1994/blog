@@ -26,6 +26,6 @@ mathjax: false
 
 1. 各方各面的大佬 **Rex Zeng** &rArr; https://www.rexskz.info/
 1. Blessing Studio的 **欧根大佬** &rArr; https://blessing.studio/
-1. 前端、音游双料大佬 **Rikumi** &rArr; https://rikumi.github.io/
+1. 前端、音游双料大佬 **Rikumi** &rArr; https://blog.rikumi.dev/
 1. 美少女推友（大雾） **Haor** &rArr; https://haor233.com/
 1. 非著名推油（大雾） **辣樱** &rArr; https://senajun.github.io/
