@@ -1,7 +1,7 @@
 ---
 title: "关于"
 date: 2017-08-20T21:38:52+08:00
-lastmod: 2018-07-10T18:42:52+08:00
+lastmod: 2020-04-08T21:50:52+08:00
 menu: "main"
 weight: 50
 
@@ -12,7 +12,7 @@ mathjax: false
 
 # 关于我
 
-zjyl1994，专职程序员 & 业余游戏制作人。
+zjyl1994，网名咸鱼，专职程序员 & 业余游戏制作人。
 
 16年毕业于某师范大学计算机专业，目前失业在家被迫摸鱼。
 
@@ -45,26 +45,30 @@ zjyl1994，专职程序员 & 业余游戏制作人。
 
 # 拿得出手的开源项目
 
-- [V2Switcher](https://github.com/zjyl1994/V2Switcher)
+- [KaiAuth](http://kaiauth.zjyl1994.com/)  KaiOS上唯一一款真正可用的TOTP两步验证代码生成器
 
 # 我的技术栈
 
 - 编程语言
+    - Golang
     - PHP
     - Python
-    - Golang
     - HTML
     - CSS
     - JavaScript
-    - Java
     - C#
+    - Java
+    - Visual Basic
+    - C/C++
 - 开发框架
+    - Gin
     - Laravel
     - Slim
     - jQuery
     - Bootstrap
     - Bukkit
     - Sponge
+    - Qt
 - 版本控制
     - Git
 - WEB服务器
@@ -78,3 +82,11 @@ zjyl1994，专职程序员 & 业余游戏制作人。
 - 容器技术
     - Docker
     - Kubernetes
+
+Golang 是我现在主用的开发语言，PHP 学生时代用的蛮多的，Python 偶尔做些数据处理会用用。
+
+C# 是我常用的Windows开发语言，Java 只有在给 Minecraft 写插件时我才想碰，这东西实在太难用。
+
+Visual Basic ，我的启蒙语言，简直成了时代的眼泪，微软自己都放弃了。
+
+C/C++ 主要是和 Qt 一起使用，现在技能忘得差不多，基本变成只读语言了。
