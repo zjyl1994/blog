@@ -22,27 +22,27 @@ copyright = ""
 
 [[menu.main]]         
   name = "个人主页"
-  weight = 10
+  weight = 5
   identifier = "index"
   url = "https://www.zjyl1994.com"
 [[menu.main]]         
   name = "博客首页"
-  weight = 20
+  weight = 10
   identifier = "home"
   url = "/"
 [[menu.main]]
   name = "归档"
-  weight = 30
+  weight = 15
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
   name = "标签"
-  weight = 40
+  weight = 20
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
   name = "分类"
-  weight = 50
+  weight = 25
   identifier = "categories"
   url = "/categories/"
 
