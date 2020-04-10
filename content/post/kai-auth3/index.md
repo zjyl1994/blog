@@ -21,6 +21,7 @@ categories: ["KaiOS"]
 
 ![app_in_launcher](https://blog.zjyl1994.com/post/kai-auth3/app_in_launcher.png)
 ![main_interface](https://blog.zjyl1994.com/post/kai-auth3/main_interface.png)
+
 ![scan_qrcode](https://blog.zjyl1994.com/post/kai-auth3/scan_qrcode.png)
 ![option_menu](https://blog.zjyl1994.com/post/kai-auth3/option_menu.png)
 
