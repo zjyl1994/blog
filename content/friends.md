@@ -25,7 +25,9 @@ mathjax: false
 (按添加时间排序，排名不分先后)
 
 1. 各方各面的大佬 **Rex Zeng** &rArr; https://www.rexskz.info/
-1. Blessing Studio的 **欧根大佬** &rArr; https://blessing.studio/
+1. 什么都会的布丁 **Printempw** &rArr; https://printempw.github.io/
 1. 前端、音游双料大佬 **Rikumi** &rArr; https://blog.rikumi.dev/
 1. 美少女推友（大雾） **Haor** &rArr; https://haor233.com/
 1. 非著名推油（大雾） **辣樱** &rArr; https://senajun.github.io/
+
+更新于 2021.4.29，已检查链接有效性
