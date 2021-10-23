@@ -29,5 +29,6 @@ mathjax: false
 1. 前端、音游双料大佬 **Rikumi** &rArr; https://blog.rikumi.dev/
 1. 美少女推友（大雾） **Haor** &rArr; https://haor233.com/
 1. 非著名推油（大雾） **辣樱** &rArr; https://senajun.github.io/
+1. 运维/赛博空管 **冰码妞** &rArr; https://blog.icecode.xyz/
 
-更新于 2021.4.29，已检查链接有效性
+更新于 2021.10.24，已检查链接有效性
