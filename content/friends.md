@@ -33,5 +33,6 @@ mathjax: false
 1. 又名 A-wing **新一** &rArr; https://a-wing.top/
 1. 《白泠的垃圾桶》 **白泠** &rArr; https://kaf.moe/
 1. 一个量子的幽灵 **量子幽灵** &rArr; https://blog.quantumghost.dev/
+1. 云原生大佬 **真夜** &rArr; https://shoujo.ink
 
-更新于 2021.11.01，已检查链接有效性
+更新于 2022.01.02，已检查链接有效性
