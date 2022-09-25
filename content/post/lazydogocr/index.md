@@ -8,8 +8,6 @@ categories: ["前端"]
 
 ---
 
-# Lazydog OCR
-
 日常开发中，我们经常会拿到一个测试同学反馈的截图，圈上了有问题的部分，需要你来排查问题。
 你看得到图片上有traceid和JSON入参，但是没有复制给你。你去找他复现，又得折腾人家重新给你抓信息。
 
@@ -67,3 +65,8 @@ Tesseract.recognize(
 });
 ```
 
+想增加识别的语言，下载对应的训练数据放到 `lang-data` ，在语言字符串的位置传入对应的语言代码即可。
+
+训练数据可以在 `https://github.com/naptha/tessdata` 下载。
+
+整个项目已开源：`https://github.com/zjyl1994/lazydogocr`
