@@ -24,15 +24,16 @@ mathjax: false
 
 (按添加时间排序，排名不分先后)
 
-1. 各方各面的大佬，只能膜拜的神 **Rex Zeng** &rArr; https://www.rexskz.info/
-1. 什么都会的布丁 **Printempw** &rArr; https://printempw.github.io/
-1. 前端、音游双料大佬 **Rikumi** &rArr; https://blog.rikumi.dev/
-1. 美少女推友 **Haor** &rArr; https://haor233.com/
-1. 非著名推油 **辣樱** &rArr; https://senajun.github.io/
-1. HAProxy专家 **冰码妞** &rArr; https://blog.icecode.xyz/
-1. 又名 A-wing **新一** &rArr; https://a-wing.top/
-1. 《白泠的垃圾桶》 **白泠** &rArr; https://kaf.moe/
-1. 一个量子的幽灵 **量子幽灵** &rArr; https://blog.quantumghost.dev/
-1. 云原生大佬 **真夜** &rArr; https://shoujo.ink
+1. **Rex Zeng** &rArr; https://www.rexskz.info/
+1. **Printempw** &rArr; https://printempw.github.io/
+1. **Rikumi** &rArr; https://rkm.mx/
+1. **Haor** &rArr; https://haor233.com/
+1. **辣樱** &rArr; https://senajun.github.io/
+1. **冰码妞** &rArr; https://blog.icecode.xyz/
+1. **新一** &rArr; https://a-wing.top/
+1. **白泠** &rArr; https://kaf.moe/
+1. **量子幽灵** &rArr; https://blog.quantumghost.dev/
+1. **真夜** &rArr; https://shoujo.ink
+1. **Alpha UMi** &rArr; https://cynosura.one
 
-更新于 2022.01.02，已检查链接有效性
+更新于 2022.12.14，已检查链接有效性
