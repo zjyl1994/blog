@@ -1,7 +1,7 @@
 ---
 title: "朋友们"
 date: 2018-07-10T18:56:00+08:00
-lastmod: 2018-07-10T18:56:00+08:00
+lastmod: 2024-05-28T10:40:00+08:00
 menu: "main"
 weight: 50
 
@@ -27,13 +27,11 @@ mathjax: false
 1. **Rex Zeng** &rArr; https://www.rexskz.info/
 1. **Printempw** &rArr; https://printempw.github.io/
 1. **Rikumi** &rArr; https://rkm.mx/
-1. **Haor** &rArr; https://haor233.com/
 1. **辣樱** &rArr; https://senajun.github.io/
-1. **冰码妞** &rArr; https://blog.icecode.xyz/
 1. **新一** &rArr; https://a-wing.top/
 1. **白泠** &rArr; https://kaf.moe/
 1. **量子幽灵** &rArr; https://blog.quantumghost.dev/
 1. **真夜** &rArr; https://shoujo.ink
 1. **Alpha UMi** &rArr; https://cynosura.one
 
-更新于 2022.12.14，已检查链接有效性
+更新于 2024.05.28，已检查链接有效性
