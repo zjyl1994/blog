@@ -31,16 +31,16 @@ categories: ["玩具"]
 
 合盖状态是这样的：
 
-![合盖状态](/img/gpdmicropc/closed.jpg)
+![合盖状态](closed.jpg)
 
 然后打开它是这样的：
 
-![开盖状态](/img/gpdmicropc/opend.jpg)
+![开盖状态](opend.jpg)
 
 你没有看错，后面插了一排的线。GPD 现在终于弄明白了自己的定位，Windows 机器就是生产力，而不是简单的做一些Windows掌机。
 这次主打的买点是工程师必备电脑，接口齐全的令人发指，这也是我买它的原因。
 
-![各种接口](/img/gpdmicropc/port.jpg)
+![各种接口](port.jpg)
 
 这个小电脑有以下接口：
 

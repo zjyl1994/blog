@@ -24,7 +24,7 @@ categories: ["Java"]
 
 `java.lang.NullPointerException at sun.awt.FontConfiguration.getVersion(FontConfiguration.java:1264)`
 
-![Java报错](/img/fontconfig/javaexception.jpg)
+![Java报错](javaexception.jpg)
 
 场景是公司买的快速开发框架jeeplus，自带一个数据导入功能，需要下载excel模板，当下载模板时触发NPE。
 

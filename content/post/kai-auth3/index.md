@@ -19,11 +19,11 @@ categories: ["KaiOS"]
 
 先看看改造后的结果：
 
-![app_in_launcher](https://blog.zjyl1994.com/post/kai-auth3/app_in_launcher.png)
-![main_interface](https://blog.zjyl1994.com/post/kai-auth3/main_interface.png)
+![app_in_launcher](app_in_launcher.png)
+![main_interface](main_interface.png)
 
-![scan_qrcode](https://blog.zjyl1994.com/post/kai-auth3/scan_qrcode.png)
-![option_menu](https://blog.zjyl1994.com/post/kai-auth3/option_menu.png)
+![scan_qrcode](scan_qrcode.png)
+![option_menu](option_menu.png)
 
 <!--more-->
 
@@ -34,8 +34,8 @@ categories: ["KaiOS"]
 
 完成品是这样的：
 
-![Icon 56px](https://blog.zjyl1994.com/post/kai-auth3/app_56.png)
-![Icon 112px](https://blog.zjyl1994.com/post/kai-auth3/app_112.png)
+![Icon 56px](app_56.png)
+![Icon 112px](app_112.png)
 
 ## 菜单改造
 
@@ -141,7 +141,7 @@ KaiOS 官方商店提交需要看一下 [官方提交文档](https://developer.k
 都做完之后登录 [Submission Portal](https://developer.kaiostech.com/devlogin) ,开始提交。
 （神奇的是，这个页面不可以用之前注册的kaios防盗账户登录。所以我就重新注册了一个kaios账号。）
 
-![submit_app](https://blog.zjyl1994.com/post/kai-auth3/submit_app.png)
+![submit_app](submit_app.png)
 
 点击 `New Packaged App` ，上传 Web IDE 版的应用。然后点击 `Test Device`，输入你测试设备的 IMEI 代码。
 等五六分钟后你测试机的商店里就能搜到你上传的应用了。（当然这个时候别人还是看不到的，要通过审核之后才能显示出来）

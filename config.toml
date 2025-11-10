@@ -18,9 +18,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 [services]
   [services.googleAnalytics]
-    ID = "UA-109257164-2"
-  [services.disqus]
-    shortname = "zjyl1994-no-zi-liu-di"
+    ID = "G-VCTR54ZD4P"
 
 [sitemap]       
   changefreq = "weekly"

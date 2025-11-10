@@ -12,7 +12,7 @@ categories: ["Golang"]
 能根据自己的需求定制工具，是最幸福的。
 
 # 文件盒子
-![filebox](https://blog.zjyl1994.com/post/recent-work-230318/filebox.jpg)
+![filebox](filebox.jpg)
 
 - 支持通过 WebUI 列出文件
 - 文件的编辑操作通过 WebDAV 进行
@@ -28,7 +28,7 @@ categories: ["Golang"]
 现在可以通过 WebDAV 在手机/电脑等设备上直接修改文件。
 
 # 简易信息面板
-![gostatusd](https://blog.zjyl1994.com/post/recent-work-230318/gostatusd.png)
+![gostatusd](gostatusd.png)
 
 - 支持月流量统计
 - 单文件无依赖部署

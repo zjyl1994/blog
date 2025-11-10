@@ -29,17 +29,17 @@ categories: ["玩具"]
 
 最重要的是：这个本子我买的时候特价只要2399，现在2499也不是很贵。
 
-![京东购买页](/img/tmb117/jdpage.jpg)
+![京东购买页](jdpage.jpg)
 
 <!--more-->
 
 购买链接：https://item.jd.com/3119258.html
 
-![真机实拍](/img/tmb117/laptop.jpg)
+![真机实拍](laptop.jpg)
 
 搭配的45W充电器，内置48Wh电池，充电速度还算可以。
 
-![充电器及指示灯](/img/tmb117/charger.jpg)
+![充电器及指示灯](charger.jpg)
 
 PS：这个指示灯在电脑合盖休眠时会呼吸闪烁，不过并没有多烦人。
 

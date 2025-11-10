@@ -17,7 +17,7 @@ categories: ["前端"]
 
 最后的成品就是这样的
 
-![Lazydog OCR](https://blog.zjyl1994.com/post/lazydogocr/main-page.png)
+![Lazydog OCR](main-page.png)
 
 提前说明，这种开源的纯离线 OCR 没有大厂提供的付费 OCR 接口效果好，胜在一不用付费，二不用上传，全靠本机的算力进行识别。
 

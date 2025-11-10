@@ -14,7 +14,7 @@ categories: ["Android"]
 之前有过一部丐版iPad，当时花了2999买的，主要拿来看Youtube等流媒体，当作出租屋小电视使用，后续由于使用体验实在糟糕逐渐吃灰，所以爱回收变现700多，变现的钱就买了这个。
 
 
-![官网宣传图](https://blog.zjyl1994.com/post/iplay_mini_2024/z8veRl.webp)
+![官网宣传图](z8veRl.webp)
 
 基本配置：MTK G99 / 8G RAM / 256GB UFS2.2 / 8.4" 1920×1200
 
@@ -43,7 +43,7 @@ TypeC的位置不是正中间真的很奇怪，不明白为什么要做在上面
 而且我以为作为一个小厂，不会有安全更新。结果前几天收到了标记为20240222版本的更新，虽然安全更新隔了4个月，但总好过根本没有。
 
 
-![更新](https://blog.zjyl1994.com/post/iplay_mini_2024/eMJ18N.webp)
+![更新](eMJ18N.webp)
 
 # 一些问题和优化
 
@@ -56,19 +56,20 @@ TypeC的位置不是正中间真的很奇怪，不明白为什么要做在上面
 令人难绷的是，下拉的通知中心一排3个，但是有4个按钮。
 
 
-![奇怪的UI](https://blog.zjyl1994.com/post/iplay_mini_2024/gV0wM1.webp)
+![奇怪的UI](gV0wM1.webp)
+
 
 ## 锁屏和唤醒
 
 原厂ROM自带“拿起唤醒”，在显示设置中可以开启。
 
 
-![拿起唤醒](https://blog.zjyl1994.com/post/iplay_mini_2024/9MaL8b.webp)
+![拿起唤醒](9MaL8b.webp)
 
 锁屏没有看到对应的安卓小组件，所以可以借助Nova Launcher的手势功能进行快捷操作。
 
 
-![手势锁屏](https://blog.zjyl1994.com/post/iplay_mini_2024/9RB38O.webp)
+![手势锁屏](9RB38O.webp)
 
 ## 有线耳机音量过大
 
@@ -76,7 +77,7 @@ TypeC的位置不是正中间真的很奇怪，不明白为什么要做在上面
 按图中设置进行调整，如果觉得声大声小不合适，可以自定义每一档的数值。
 
 
-![音量调节](https://blog.zjyl1994.com/post/iplay_mini_2024/YVQyVe.webp)
+![音量调节](YVQyVe.webp)
 
 # 后记
 

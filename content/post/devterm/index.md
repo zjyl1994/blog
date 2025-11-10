@@ -8,8 +8,8 @@ categories: ["玩具"]
 
 ---
 
-![Title](https://blog.zjyl1994.com/post/devterm/title.jpg)
-![menu](https://blog.zjyl1994.com/post/devterm/menu.jpg)
+![Title](title.jpg)
+![menu](menu.jpg)
 
 2020年11月，我在网上看到 ClockworkPi 发布的 DevTerm，在此之前我就听说过这家公司。
 他家的 GameShell 之前就想买来着，但是1000多块买一个只能玩游戏的开源掌机实在下不去手。

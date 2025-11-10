@@ -11,7 +11,7 @@ categories: ["玩具"]
 上班的时候经常需要使用工具网站，公司环境不方便登录自己的账号进行云同步。
 所以我简单的糊了一个 Vue 的小工具导航页。
 
-![成品](https://blog.zjyl1994.com/post/superutils/su.png)
+![成品](hsu.png)
 
 <!--more-->
 
@@ -111,6 +111,6 @@ cp data.json /var/www/su.zjyl1994.com/data.json
 
 最后去 Gitea 配置你的 Webhook
 
-![Gitea](https://blog.zjyl1994.com/post/superutils/webhook.png)
+![Gitea](hwebhook.png)
 
 修改后 push 到 master 分支就可以自动更新服务端的部署了。

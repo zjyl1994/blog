@@ -10,7 +10,8 @@ categories: ["KaiOS"]
 
 > KaiAuth is a simple alternative of Google Authenticator on KaiOS
 
-![KaiAuth logo](https://blog.zjyl1994.com/post/introducing_kaiauth/logo.png)
+![KaiAuth logo](logo.png)
+
 
 I'm not a native speaker of English so there will be some mistakes in my sayings.
 

@@ -14,7 +14,7 @@ categories: ["Golang"]
 
 成品是这样的
 
-![默认界面](https://blog.zjyl1994.com/post/webls/default.png)
+![默认界面](default.png)
 
 还可以支持 Markdown 展示
 

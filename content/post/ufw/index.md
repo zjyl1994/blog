@@ -22,7 +22,7 @@ Windows10企业版有一个很好的功能，就是Unified Write Filter，中文
 
 首先你需要先激活Win10企业版，然后在控制面板->程序和功能->启用和关闭Windows功能->设备锁定中选中统一写入筛选器。
 
-![统一写入筛选器的位置](/img/ufw1.png)
+![统一写入筛选器的位置](ufw1.png)
 
 然后按Win+X弹出高级功能菜单，选择“Windows PowerShell（管理员）”。打开拥有管理员权限的PS后，输入如下命令：
 

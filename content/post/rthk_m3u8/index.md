@@ -14,7 +14,7 @@ RTHK 是香港唯一的公营电视机构，有31和32两个免费电视台，�
 
 官方的播放地址是 [https://www.rthk.hk/tv](https://www.rthk.hk/tv)
 
-![在线播放截图](https://blog.zjyl1994.com/post/rthk_m3u8/rthk_live.jpg)
+![在线播放截图](rthk_live.jpg)
 
 <!--more-->
 
