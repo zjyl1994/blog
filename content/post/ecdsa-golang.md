@@ -3,9 +3,6 @@ title: "Golang 使用ECDSA进行数字签名"
 date: 2022-07-27T22:26:00+08:00
 lastmod: 2022-07-27T22:26:00+08:00
 draft: false
-tags: ["Golang"]
-categories: ["Golang"]
-
 ---
 
 > 数字签名可以检查数据是否遭到篡改

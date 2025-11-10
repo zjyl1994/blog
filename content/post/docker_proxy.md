@@ -3,9 +3,6 @@ title: "Docker 配置代理"
 date: 2025-10-06T11:50:00+08:00
 lastmod: 2025-10-06T11:50:00+08:00
 draft: false
-tags: ["Docker"]
-categories: ["开发"]
-
 ---
 
 > 国内的网络环境大家都懂，没有科学工具的可以不用看了。

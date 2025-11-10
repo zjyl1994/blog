@@ -3,9 +3,6 @@ title: "Chrome Wayland Fcitx 漏字修复"
 date: 2024-02-14T20:48:00+08:00
 lastmod: 2024-02-14T20:48:00+08:00
 draft: false
-tags: ["Linux","Wayland"]
-categories: ["Linux"]
-
 ---
 
 最近在自用的 Fedora 系统上切换了Wayland显示，输入法就有一些奇怪的漏字现象。

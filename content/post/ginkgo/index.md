@@ -3,9 +3,6 @@ title: "Redmi Note 8 刷机笔记"
 date: 2020-11-08T23:01:00+08:00
 lastmod: 2020-11-08T23:01:00+08:00
 draft: false
-tags: ["生活"]
-categories: ["生活"]
-
 ---
 
 > 上班实在是忙，没时间折腾技术类的东西。

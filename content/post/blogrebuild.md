@@ -3,9 +3,6 @@ title: "博客2.0"
 date: 2018-01-24T13:48:56+08:00
 lastmod: 2018-01-24T13:48:56+08:00
 draft: false
-tags: ["Hugo", "博客"]
-categories: ["博客"]
-
 ---
 
 > Hugo 是个不错的静态网站生成器

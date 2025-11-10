@@ -3,9 +3,6 @@ title: "Golang 泛型初体验"
 date: 2022-08-05T21:53:00+08:00
 lastmod: 2022-08-05T21:53:00+08:00
 draft: false
-tags: ["Golang","泛型"]
-categories: ["Golang"]
-
 ---
 
 > 最近给公司的几个服务升级到了Go1.18,总算能好好的体验泛型了。

@@ -3,8 +3,6 @@ title: "Hugo 博客折腾记"
 date: 2019-11-06T22:42:00+08:00
 lastmod: 2019-11-06T22:42:00+08:00
 draft: false
-tags: ["Hugo","Nginx","CentOS"]
-categories: ["博客"]
 ---
 
 > 五一期间折腾了一下服务器的 Docker 化，踩了好多的坑，写文记录下来。

@@ -3,9 +3,6 @@ title: "Clockworkpi APT 镜像源"
 date: 2021-10-26T20:20:00+08:00
 lastmod: 2021-10-26T20:20:00+08:00
 draft: false
-tags: ["Clockworkpi","DevTerm"]
-categories: ["玩具","Golang"]
-
 ---
 
 > Clockworkpi 的 APT 源放在 Github 上，由于众所周知的原因，国内访问稀烂。

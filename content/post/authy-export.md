@@ -3,9 +3,6 @@ title: "Authy 导出密钥"
 date: 2019-12-07T21:40:00+08:00
 lastmod: 2019-12-07T21:40:00+08:00
 draft: false
-tags: ["应用", "日常"]
-categories: ["日常"]
-
 ---
 
 > Authy 也可以导出密钥，而且现在很简单了

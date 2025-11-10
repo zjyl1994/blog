@@ -3,9 +3,6 @@ title: "KaiDeploy 开发笔记"
 date: 2020-03-22T23:31:00+08:00
 lastmod: 2020-03-22T23:31:00+08:00
 draft: false
-tags: ["KaiOS"]
-categories: ["KaiOS"]
-
 ---
 
 > 折腾 KaiOS 的我又搞了一个没什么人会用到的小工具

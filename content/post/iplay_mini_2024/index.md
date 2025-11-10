@@ -3,9 +3,6 @@ title: "掌玩mini 2024 简测"
 date: 2024-02-29T22:39:00+08:00
 lastmod: 2024-02-29T22:39:00+08:00
 draft: false
-tags: ["Android"]
-categories: ["Android"]
-
 ---
 
 > 前情提要：酷比魔方 掌玩mini (iPlay 50 Mini Pro) 2024 NFE 8+256 ¥799

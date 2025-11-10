@@ -3,9 +3,6 @@ title: "记一次MySQL巨大表查询优化"
 date: 2020-07-01T23:01:00+08:00
 lastmod: 2020-07-01T23:20:00+08:00
 draft: false
-tags: ["MySQL", "优化"]
-categories: ["MySQL"]
-
 ---
 
 > 今天上班折腾这个搞到晚上9点，记录下来免得后人踩坑

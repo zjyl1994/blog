@@ -3,9 +3,6 @@ title: "博客自动部署系统Shell版"
 date: 2018-01-25T11:28:00+08:00
 lastmod: 2018-01-25T11:28:00+08:00
 draft: false
-tags: ["Hugo", "博客"]
-categories: ["博客"]
-
 ---
 
 这是用bash脚本+Crontab结合的自动部署，只依赖md5deep包。

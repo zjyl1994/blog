@@ -3,9 +3,6 @@ title: "TVProxy 开发笔记"
 date: 2020-04-28T21:06:43+08:00
 lastmod: 2020-04-28T21:06:43+08:00
 draft: false
-tags: ["IPTV", "Golang"]
-categories: ["IPTV"]
-
 ---
 
 > 花了两整天时间搞了一个Kodi适用的香港电视直播代理。

@@ -3,9 +3,6 @@ title: "Webls - 简单易用的目录列出应用"
 date: 2021-04-08T22:32:00+08:00
 lastmod: 2021-04-08T22:32:00+08:00
 draft: false
-tags: ["Golang","小工具"]
-categories: ["Golang"]
-
 ---
 
 > 正好有个工具文件上云的需求，就做了这么个工具。

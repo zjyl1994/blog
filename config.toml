@@ -26,12 +26,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
   filename = "sitemap.xml"
 
 [[menu.main]]         
-  name = "个人主页"
+  name = "主页"
   weight = 5
   identifier = "index"
   url = "https://www.zjyl1994.com"
 [[menu.main]]         
-  name = "博客首页"
+  name = "首页"
   weight = 10
   identifier = "home"
   url = "/"
@@ -40,16 +40,6 @@ ignoreLogs = ['warning-goldmark-raw-html']
   weight = 15
   identifier = "archives"
   url = "/archives/"
-[[menu.main]]
-  name = "标签"
-  weight = 20
-  identifier = "tags"
-  url = "/tags/"
-[[menu.main]]
-  name = "分类"
-  weight = 25
-  identifier = "categories"
-  url = "/categories/"
 
 [params]
   debug = false

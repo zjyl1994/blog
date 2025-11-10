@@ -3,9 +3,6 @@ title: "解决Alpine缺少字体的问题"
 date: 2019-02-11T16:20:00+08:00
 lastmod: 2019-02-11T16:20:00+08:00
 draft: false
-tags: ["Java", "Alpine", "字体", "笔记"]
-categories: ["Java"]
-
 ---
 
 > 2019-02-11 农历己亥年上班第一天

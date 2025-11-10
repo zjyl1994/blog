@@ -3,8 +3,6 @@ title: "KaiAuth 开发笔记3"
 date: 2020-04-01T22:40:00+08:00
 lastmod: 2020-04-01T22:40:00+08:00
 draft: false
-tags: ["KaiOS", "KaiAuth"]
-categories: ["KaiOS"]
 ---
 
 > 最近升级了一下 KaiAuth，目前版本 v1.1.1

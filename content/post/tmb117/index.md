@@ -3,9 +3,6 @@ title: "宏碁TMB117测评"
 date: 2018-07-17T22:45:00+08:00
 lastmod: 2018-07-18T00:05:00+08:00
 draft: false
-tags: ["Acer", "TMB117", "Manjaro", "笔记本"]
-categories: ["玩具"]
-
 ---
 
 > 2018-07-17夜 深圳 狂风暴雨配闪电

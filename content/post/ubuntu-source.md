@@ -3,9 +3,6 @@ title: "Ubuntu 18.04 必做操作"
 date: 2018-10-12T07:00:00+08:00
 lastmod: 2018-10-12T07:00:00+08:00
 draft: false
-tags: ["Ubuntu","笔记"]
-categories: ["开发笔记"]
-
 ---
 
 > 新开一个栏目，专门记录开发中常见的命令和操作

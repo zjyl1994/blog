@@ -3,9 +3,6 @@ title: "Youtube直播转IPTV直播源"
 date: 2020-08-23T19:17:23+08:00
 lastmod: 2020-08-23T19:17:23+08:00
 draft: false
-tags: ["IPTV", "Golang"]
-categories: ["IPTV"]
-
 ---
 
 > 这篇是升级版！

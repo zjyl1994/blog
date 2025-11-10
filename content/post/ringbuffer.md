@@ -3,9 +3,6 @@ title: "Ringbuffer环形缓冲区"
 date: 2018-08-05T11:53:00+08:00
 lastmod: 2018-08-05T11:53:00+08:00
 draft: false
-tags: ["Golang", "Ringbuffer", "环形缓冲区"]
-categories: ["Golang"]
-
 ---
 
 # 前言

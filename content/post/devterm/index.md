@@ -3,9 +3,6 @@ title: "DevTerm 等待与失望"
 date: 2022-01-02T22:04:00+08:00
 lastmod: 2022-01-02T22:04:00+08:00
 draft: false
-tags: ["玩具"]
-categories: ["玩具"]
-
 ---
 
 ![Title](title.jpg)

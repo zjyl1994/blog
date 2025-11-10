@@ -3,8 +3,6 @@ title: "打造自己的 Seedbox"
 date: 2025-03-26T23:45:00+08:00
 lastmod: 2025-03-26T23:45:00+08:00
 draft: false
-tags: ["BitTorrent","VPS"]
-categories: ["VPS"]
 ---
 
 # 背景

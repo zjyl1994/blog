@@ -3,9 +3,6 @@ title: "VSCode 配置任意位置 F5 调试 Golang"
 date: 2022-11-16T20:44:00+08:00
 lastmod: 2022-11-16T20:44:00+08:00
 draft: false
-tags: ["Golang", "VSCode"]
-categories: ["Golang"]
-
 ---
 
 VSCode 安装 Golang 插件后，如果安装了配套的gotools, 实际上已经可以支持调试了。

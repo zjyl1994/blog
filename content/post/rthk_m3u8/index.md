@@ -3,9 +3,6 @@ title: "RTHK直播抓取笔记"
 date: 2020-04-28T17:31:56+08:00
 lastmod: 2020-04-28T17:31:56+08:00
 draft: false
-tags: ["IPTV", "Golang"]
-categories: ["IPTV"]
-
 ---
 
 > 网上提供直播源的香港电视台除了TVB还有RTHK。

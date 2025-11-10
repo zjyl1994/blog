@@ -3,8 +3,6 @@ title: "Cap 的 Go 后端"
 date: 2025-09-11T07:38:00+08:00
 lastmod: 2025-09-11T07:38:00+08:00
 draft: false
-tags: ["Go","Web"]
-categories: ["Go"]
 ---
 
 # Cap

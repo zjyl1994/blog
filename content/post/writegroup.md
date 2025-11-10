@@ -3,9 +3,6 @@ title: "Golang 优化之合并请求"
 date: 2025-03-23T20:00:00+08:00
 lastmod: 2025-03-23T20:00:00+08:00
 draft: false
-tags: ["Golang"]
-categories: ["Golang"]
-
 ---
 
 很多时候，一些请求是可以合并的，比如库存扣减常用的 `UPDATE qty = qty -1`

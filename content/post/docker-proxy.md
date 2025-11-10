@@ -3,9 +3,6 @@ title: "Docker build 挂梯子"
 date: 2023-09-21T22:27:00+08:00
 lastmod: 2023-09-21T22:27:00+08:00
 draft: false
-tags: ["Docker"]
-categories: ["Docker"]
-
 ---
 
 > 国内的网络环境，懂得都懂。
