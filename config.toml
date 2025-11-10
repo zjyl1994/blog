@@ -4,16 +4,23 @@ defaultContentLanguage = "zh"
 title = "咸鱼的小鱼塘"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "even"
+theme = "PaperMod"
 
 hasCJKLanguage = true
-paginate = 5
-disqusShortname = "zjyl1994-no-zi-liu-di"      # disqus_shortname
-googleAnalytics = "UA-109257164-2"      # UA-XXXXXXXX-X
-copyright = ""  
+[pagination]
+  pagerSize = 5
+copyright = "<a rel=\"license noopener\" href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">CC BY-NC-SA 4.0</a>"
 
-[author] 
-  name = "zjyl1994"
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[services]
+  [services.googleAnalytics]
+    ID = "UA-109257164-2"
+  [services.disqus]
+    shortname = "zjyl1994-no-zi-liu-di"
 
 [sitemap]       
   changefreq = "weekly"
@@ -34,7 +41,7 @@ copyright = ""
   name = "归档"
   weight = 15
   identifier = "archives"
-  url = "/post/"
+  url = "/archives/"
 [[menu.main]]
   name = "标签"
   weight = 20
@@ -48,32 +55,25 @@ copyright = ""
 
 [params]
   debug = false
-
   since = "2016"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  DateFormat = "2006-01-02"
+  ShowRssButtonInSectionTermList = true
+  disableSpecial1stPost = false
+  author = "zjyl1994"
 
-  logoTitle = "咸鱼的小鱼塘"
-
-  archive-paginate = 15
-
-  dateFormatToUse = "2006-01-02"
-
-  moreMeta = true
-
-  toc = true
-  
-  fancybox = true
-  
-  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>'
-
-  google_verification = ""
-
-  [params.busuanzi]
-    enable = true
-    siteUV = true
-    sitePV = true
-    pagePV = true
-
-  [params.social]
-    a-email = "mailto:me@zjyl1994.com"
-    g-github = "https://github.com/zjyl1994"
-    m-instagram = "https://www.instagram.com/zjyl1994/"
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

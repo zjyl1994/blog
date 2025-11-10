@@ -1,0 +1,24 @@
+{{- /*
+  Fix author rendering: when site.Params.author is a map (e.g., { name = "..." }),
+  printing it directly shows the whole map (including unrelated keys like copyright/socialIcons).
+  Prefer .Params.author if provided; otherwise, extract name from site.Params.author map.
+*/}}
+{{- if .Params.author }}
+  {{- $author := .Params.author }}
+  {{- $t := printf "%T" $author }}
+  {{- if (or (eq $t "[]string") (eq $t "[]interface {}")) }}
+    {{- delimit $author ", " }}
+  {{- else }}
+    {{- $author }}
+  {{- end }}
+{{- else if site.Params.author }}
+  {{- $a := site.Params.author }}
+  {{- $t := printf "%T" $a }}
+  {{- if (hasPrefix $t "map") }}
+    {{- with (index $a "name") }}{{ . }}{{ end }}
+  {{- else if (or (eq $t "[]string") (eq $t "[]interface {}")) }}
+    {{- delimit $a ", " }}
+  {{- else }}
+    {{- $a }}
+  {{- end }}
+{{- end -}}
