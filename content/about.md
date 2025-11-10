@@ -1,7 +1,7 @@
 ---
 title: "关于"
 date: 2017-08-20T21:38:52+08:00
-lastmod: 2021-11-01T14:00:52+08:00
+lastmod: 2025-11-10T21:57:52+08:00
 menu: "main"
 weight: 50
 
@@ -20,20 +20,13 @@ zjyl1994，网名咸鱼，专职程序员 & 业余美食家。
 
 希望有一天可以赚很多的钱，完成自己想做的事情。
 
-# 2022计划
-
-- 减重20斤
-- 自驾车超过1万公里
-- 持续维护一个有趣的开源项目
-- 保持好奇心，继续瞎折腾
-
 # 关于这个博客
 
 16年开始，自己买服务器装Wordpress写博客。由于数据损毁，又没有备份，所以之前的文章全都丢了。
 
 现在的博客算是第二代自建博客，用的静态网站生成器 + Markdown撰写，托管在自己的服务器上。
 
-这个博客基于 [Hugo静态网站生成器](https://gohugo.io/) 构建，搭配的 [Even主题](https://themes.gohugo.io/hugo-theme-even/)。通过 Github Webhook 联动 Hugo 实现自动更新。
+这个博客基于 [Hugo静态网站生成器](https://gohugo.io/) 构建，搭配的 [PaperMod主题](https://themes.gohugo.io/themes/hugo-papermod/)。通过 Github Webhook 联动 Hugo 实现自动更新。
 
 博客的源码托管在 [zjyl1994/blog](https://github.com/zjyl1994/blog) 。
 
