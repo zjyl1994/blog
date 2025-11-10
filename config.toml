@@ -9,7 +9,6 @@ theme = "PaperMod"
 hasCJKLanguage = true
 [pagination]
   pagerSize = 5
-copyright = "<a rel=\"license noopener\" href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">CC BY-NC-SA 4.0</a>"
 
 ignoreLogs = ['warning-goldmark-raw-html']
 

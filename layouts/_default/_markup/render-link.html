@@ -1,0 +1,13 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $href := $u.String -}}
+{{- /* Merge existing attributes with new tab behavior */ -}}
+{{- $attributes := merge .Attributes (dict "href" $href "title" (.Title | transform.HTMLEscape) "target" "_blank" "rel" "noopener noreferrer") -}}
+<a
+  {{- range $k, $v := $attributes -}}
+    {{- if $v -}}
+      {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
+    {{- end -}}
+  {{- end -}}>
+  {{- .Text -}}
+</a>
+{{- /* simple link render hook: open links in new tab */ -}}
