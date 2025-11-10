@@ -1,8 +1,6 @@
 ---
 title: "Alpine with CGO"
 date: 2019-04-08T22:17:00+08:00
-lastmod: 2019-04-08T22:17:00+08:00
-draft: false
 ---
 
 > 今天折腾这个一天，记录下来免得未来踩坑

@@ -27,7 +27,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 [[menu.main]]         
   name = "主页"
-  weight = 5
+  weight = 100
   identifier = "index"
   url = "https://www.zjyl1994.com"
 [[menu.main]]         

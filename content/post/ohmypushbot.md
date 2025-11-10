@@ -1,8 +1,6 @@
 ---
 title: "OhMyPushBot ———— Telegram 推送 Bot"
 date: 2019-07-06T23:41:00+08:00
-lastmod: 2019-07-06T23:41:00+08:00
-draft: false
 ---
 
 > 前几天做的小玩具

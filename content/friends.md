@@ -1,5 +1,5 @@
 ---
-title: "朋友们"
+title: "友人"
 date: 2018-07-10T18:56:00+08:00
 lastmod: 2024-05-28T10:40:00+08:00
 menu: "main"
@@ -26,7 +26,7 @@ mathjax: false
 
 1. **Rex Zeng** &rArr; https://www.rexskz.info/
 1. **Printempw** &rArr; https://printempw.github.io/
-1. **Rikumi** &rArr; https://rkm.mx/
+1. **Rikumi** &rArr; https://craft.rkm.mx/
 1. **辣樱** &rArr; https://senajun.github.io/
 1. **新一** &rArr; https://a-wing.top/
 1. **白泠** &rArr; https://kaf.moe/

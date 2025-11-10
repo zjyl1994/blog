@@ -1,8 +1,6 @@
 ---
 title: "KaiAuth 开发笔记"
 date: 2020-03-11T12:43:00+08:00
-lastmod: 2020-03-11T12:43:00+08:00
-draft: false
 ---
 
 > KaiAuth 是一款 KaiOS 上的谷歌验证器替代品

@@ -1,8 +1,6 @@
 ---
 title: "Youtube直播转IPTV源"
 date: 2020-05-03T23:05:19+08:00
-lastmod: 2020-05-03T23:05:19+08:00
-draft: false
 ---
 
 > Youtube 是个大宝库！

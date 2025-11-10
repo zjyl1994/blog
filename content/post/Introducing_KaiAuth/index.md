@@ -1,8 +1,6 @@
 ---
 title: "Introducing KaiAuth"
 date: 2020-03-20T23:10:00+08:00
-lastmod: 2020-03-20T23:10:00+08:00
-draft: false
 ---
 
 > KaiAuth is a simple alternative of Google Authenticator on KaiOS

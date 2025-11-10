@@ -1,8 +1,6 @@
 ---
 title: "GPD MicroPC 使用感受"
 date: 2019-08-27T23:29:00+08:00
-lastmod: 2019-08-27T23:29:00+08:00
-draft: false
 ---
 
 # 前言
