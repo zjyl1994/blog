@@ -3,8 +3,8 @@ title: "DevTerm 等待与失望"
 date: 2022-01-02T22:04:00+08:00
 ---
 
-![Title](title.jpg)
-![menu](menu.jpg)
+![Title](title.webp)
+![menu](menu.webp)
 
 2020年11月，我在网上看到 ClockworkPi 发布的 DevTerm，在此之前我就听说过这家公司。
 他家的 GameShell 之前就想买来着，但是1000多块买一个只能玩游戏的开源掌机实在下不去手。

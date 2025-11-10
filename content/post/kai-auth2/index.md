@@ -15,7 +15,7 @@ date: 2020-03-11T12:43:00+08:00
 
 首先，需要确认改进点，旧版本的 KaiAuth 是这样的：
 
-![kaiauth1](kaiauth1.png)
+![kaiauth1](kaiauth1.webp)
 
 目测可以看到：没有添加删除，没有其他功能，只有简单的看两步验证代码和一个方向键滚动屏幕。
 
@@ -23,13 +23,13 @@ date: 2020-03-11T12:43:00+08:00
 
 期望的改进点是，可以手机自己独立增加删除账号，所以引入左右软键。左边是`Add`，右侧是`Delete`
 
-![kaiauth2](kaiauth2.png)
+![kaiauth2](kaiauth2.webp)
 
 （上面的是已经做了多语言的截图，感谢 LiarOnce 的贡献）
 
 考虑到添加需要扫描二维码，所以说需要实现一套扫码的页面和逻辑。
 
-![KaiAuth2 QRCode Scan](k2-cam.png)
+![KaiAuth2 QRCode Scan](k2-cam.webp)
 
 扫码功能界面就长这样。扫描到二维码会自动添加并返回主列表。
 

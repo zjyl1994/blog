@@ -9,7 +9,7 @@ date: 2021-04-08T22:32:00+08:00
 
 成品是这样的
 
-![默认界面](default.png)
+![默认界面](default.webp)
 
 还可以支持 Markdown 展示
 
@@ -17,15 +17,15 @@ date: 2021-04-08T22:32:00+08:00
 
 只要你的文件夹中有`README.md`文件，就能渲染出来对应的文件内容。
 
-![有自述文件的情况](filewithreadme.png)
+![有自述文件的情况](filewithreadme.webp)
 
 而且使用了 GitHub 风格的渲染器，所以可以支持多种样式
 
-![样式支持](markdown.png)
+![样式支持](markdown.webp)
 
 而且支持中文的路径
 
-![中文路径](path.png)
+![中文路径](path.webp)
 
 对于带有点的文件和文件夹，和 unix 系列的行为一致，会被隐藏起来。
 

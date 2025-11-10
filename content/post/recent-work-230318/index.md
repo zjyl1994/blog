@@ -7,7 +7,7 @@ date: 2023-03-18T23:05:00+08:00
 能根据自己的需求定制工具，是最幸福的。
 
 # 文件盒子
-![filebox](filebox.jpg)
+![filebox](filebox.webp)
 
 - 支持通过 WebUI 列出文件
 - 文件的编辑操作通过 WebDAV 进行
@@ -23,7 +23,7 @@ date: 2023-03-18T23:05:00+08:00
 现在可以通过 WebDAV 在手机/电脑等设备上直接修改文件。
 
 # 简易信息面板
-![gostatusd](gostatusd.png)
+![gostatusd](gostatusd.webp)
 
 - 支持月流量统计
 - 单文件无依赖部署

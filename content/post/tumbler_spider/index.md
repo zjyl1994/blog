@@ -18,7 +18,7 @@ Python不用我过多介绍了吧，就是一个编程语言。嗯，这个东�
 
 它的API分为两个版本，V2需要注册，功能更多。但是V1并不需要注册，只需要在Tumblr的地址后面加上/api/read就可以获取到XML格式的信息了。给你们看一下他输出的XML：
 
-1. ![XML内容](tumblr-xml.png)
+1. ![XML内容](tumblr-xml.webp)
 
 就是这样，你要的图片路径都有，还有很多附加信息。
 
@@ -76,8 +76,8 @@ while postOffset < total:
 
 这是运行效果图：
 
-![运行效果](tumblr-code.png)
+![运行效果](tumblr-code.webp)
 
-![最终效果](tumblr-pics.png)
+![最终效果](tumblr-pics.webp)
 
 这算是简易版的了，下载速度慢可以通过多线程来解决，不过这样的话就不止30行了，有能力可以自己动手改造一下。

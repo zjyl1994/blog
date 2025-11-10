@@ -42,11 +42,11 @@ ${baseURL}rthk/32.m3u8
 
 让我们启动这个程序，然后在 PVR 中填上 `http://127.0.0.1:10086/iptv.m3u`，重启 Kodi 后就可以看到对应的频道清单了。
 
-![PVR设置](pvr_setting.png)
+![PVR设置](pvr_setting.webp)
 
-![频道列表](channel_select.jpg)
+![频道列表](channel_select.webp)
 
-![TVB直播](tvb_live.jpg)
+![TVB直播](tvb_live.webp)
 
 现在就可以舒服的在Kodi上看港台了。
 

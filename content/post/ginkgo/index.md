@@ -28,7 +28,7 @@ date: 2020-11-08T23:01:00+08:00
 
 等待开机的时候你需要准备一个魔法网络方便跳过开机的谷歌登录，如果没有请拔掉卡并不连接WIFI，等看到桌面再说。
 
-![主屏幕](main_screen.jpg)
+![主屏幕](main_screen.webp)
 
 # 调校
 
@@ -36,13 +36,13 @@ date: 2020-11-08T23:01:00+08:00
 
 默认的设计实在太难看了，白白的屏幕多出来一个摄像头的尖。这个解决起来也很简单，装一个叫NachoNotch的应用就可以了,链接附在文末。
 
-![Nacho Notch](nacho_notch.jpg)
+![Nacho Notch](nacho_notch.webp)
 
 安装完开启Hide Notch！他会在程序最上方画一个黑底的悬浮窗盖住原先的白色，反正实现非常完美。
 
 唯一美中不足的是，会显示一个Nacho Notch正在其他程序上显示的提示，此时右滑提示，选择关闭即可。
 
-![关闭通知](disable_notify.jpg)
+![关闭通知](disable_notify.webp)
 
 唯一的缺点是设置这个APP里没法覆盖，可能是系统安全限制。
 
@@ -56,7 +56,7 @@ date: 2020-11-08T23:01:00+08:00
 
 修复后的Ampere能达到快充标准。
 
-![Ampere修复后](ampere.jpg)
+![Ampere修复后](ampere.webp)
 
 # 优缺点
 

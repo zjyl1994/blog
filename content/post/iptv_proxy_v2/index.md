@@ -15,7 +15,7 @@ Youtube直播转IPTV直播源，基于Youtube-dl，我之前写过一个版本�
 
 考虑到国内的网络问题，我还增加了代理模式，让电视不用搞飞机也能看。
 
-![LiveTV](index-zh.png)
+![LiveTV](index-zh.webp)
 
 # 安装教程
 
@@ -55,7 +55,7 @@ Youtube直播转IPTV直播源，基于Youtube-dl，我之前写过一个版本�
 
 面板的访问地址是`http://你的外网ip:你设定的端口`，比如我自己的面板就是`http://192.168.1.100:9500`。
 
-![LiveTV](index-zh.png)
+![LiveTV](index-zh.webp)
 
 这个面板还有英文版，不过考虑到能读到我这篇文章的读者应该都能懂中文，还是放中文版的图比较好。
 

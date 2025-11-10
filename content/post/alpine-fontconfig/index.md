@@ -19,7 +19,7 @@ date: 2019-02-11T16:20:00+08:00
 
 `java.lang.NullPointerException at sun.awt.FontConfiguration.getVersion(FontConfiguration.java:1264)`
 
-![Java报错](javaexception.jpg)
+![Java报错](javaexception.webp)
 
 场景是公司买的快速开发框架jeeplus，自带一个数据导入功能，需要下载excel模板，当下载模板时触发NPE。
 

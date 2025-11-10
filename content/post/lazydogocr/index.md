@@ -12,7 +12,7 @@ date: 2022-09-25T09:14:00+08:00
 
 最后的成品就是这样的
 
-![Lazydog OCR](main-page.png)
+![Lazydog OCR](main-page.webp)
 
 提前说明，这种开源的纯离线 OCR 没有大厂提供的付费 OCR 接口效果好，胜在一不用付费，二不用上传，全靠本机的算力进行识别。
 

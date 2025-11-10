@@ -6,7 +6,7 @@ date: 2022-05-01T22:37:00+08:00
 上班的时候经常需要使用工具网站，公司环境不方便登录自己的账号进行云同步。
 所以我简单的糊了一个 Vue 的小工具导航页。
 
-![成品](hsu.png)
+![成品](hsu.webp)
 
 <!--more-->
 
@@ -106,6 +106,6 @@ cp data.json /var/www/su.zjyl1994.com/data.json
 
 最后去 Gitea 配置你的 Webhook
 
-![Gitea](hwebhook.png)
+![Gitea](hwebhook.webp)
 
 修改后 push 到 master 分支就可以自动更新服务端的部署了。

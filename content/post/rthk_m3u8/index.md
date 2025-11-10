@@ -9,17 +9,17 @@ RTHK 是香港唯一的公营电视机构，有31和32两个免费电视台，�
 
 官方的播放地址是 [https://www.rthk.hk/tv](https://www.rthk.hk/tv)
 
-![在线播放截图](rthk_live.jpg)
+![在线播放截图](rthk_live.webp)
 
 <!--more-->
 
 按下 <kbd>F12</kbd> 可以看到视频使用的是jwplayer播放，指向一个内存blob。
 
-![F12结果](jwplayer.jpg)
+![F12结果](jwplayer.webp)
 
 所以，我们需要转去 Network 标签查看所有网络流量。
 
-![找到M3U8](network_get_m3u8.jpg)
+![找到M3U8](network_get_m3u8.webp)
 
 尝试直接访问以下：`curl -s https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8`
 
@@ -133,6 +133,6 @@ func m3u8Proc(data string, prefixUrl string) string {
 
 最后的效果如下：
 
-![VLC播放RTHK32](play_rthk32.jpg)
+![VLC播放RTHK32](play_rthk32.webp)
 
 相关的代理我已经封装成库了，可以参看 [https://github.com/zjyl1994/tvproxy](https://github.com/zjyl1994/tvproxy) ,觉得好用给个star啦。

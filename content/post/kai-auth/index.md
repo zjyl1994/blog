@@ -17,13 +17,13 @@ date: 2019-12-07T15:23:00+08:00
 
 <!--more-->
 
-![2720-opened](2720-opened.jpg)
+![2720-opened](2720-opened.webp)
 
 # 系统
 
 KaiOS 用起来，有种 S40 和 S60 的混合体，可能年轻人都没用过这东西了吧？
 
-![](launcher.png)
+![](launcher.webp)
 
 在香港的时候，连上丰泽的 WiFi ，桌面上有 Youtube、Twitter、WhatsApp，甚至有 Google 助理。
 
@@ -41,15 +41,15 @@ KaiOS 是一个 HTML5 驱动的半智能手机，基于停止开发的 Firefox O
 
 电脑上的调试器，可以使用 Pale Moon，虽然都推荐 Firefox 59 ESR 版本，但是因为这个东西每次都要自动升级，就很麻烦。所以推荐用不会强行自动升级的 Pale Moon 28.6.1，找不到可以直接点[这里](https://rm-eu.palemoon.org/release/palemoon-28.6.1.win64.installer.exe)下载。
 
-![palemoon](palemoon.png)
+![palemoon](palemoon.webp)
 
-![](webide.png)
+![](webide.webp)
 
 ## KaiAuth
 
 KaiOS 的开发说简单也简单，说复杂也复杂，可能是我没有相关的前端经验。先来看我的最终成品：
 
-![](kaiauth.png)
+![](kaiauth.webp)
 
 首先要理解一个概念，KaiOS 并没有官方的 UI 库和控件，你可以理解为一个全屏的 Firefox 浏览器，你所看到的一切都是用 HTML 和 CSS 一点点画出来的。（也就是上图除去最上面一行状态栏，其他都是要自己实现）
 
@@ -116,7 +116,7 @@ TOTP标准的添加方法是扫描二维码，但是没有合适的资料可以�
 
 从原理上来说二维码会解析出一个 otpauth 开头的 uri，解析后就能得到 secert 和其他设置信息。
 
-![](qrcode.png)
+![](qrcode.webp)
 
 解码出来，就是：` otpauth://totp/otplib-website:otplib-demo-user?secret=WUABTBGATYBBEURE&period=30&digits=6&algorithm=SHA1&issuer=otplib-website `
 

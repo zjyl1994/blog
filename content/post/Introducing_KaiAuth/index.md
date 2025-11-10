@@ -5,7 +5,7 @@ date: 2020-03-20T23:10:00+08:00
 
 > KaiAuth is a simple alternative of Google Authenticator on KaiOS
 
-![KaiAuth logo](logo.png)
+![KaiAuth logo](logo.webp)
 
 
 I'm not a native speaker of English so there will be some mistakes in my sayings.
@@ -29,9 +29,9 @@ When you do the right thing by following the steps above,KaiAuth will appear in 
 
 # Use
 ## Basic functions
-![Icon in menu](logo_in_menu.png)
+![Icon in menu](logo_in_menu.webp)
 ### Main interface
-![Main interface](main_interface.png)
+![Main interface](main_interface.webp)
 
 Although these screenshots are in Chinese, don't worry, English versions are now available.
 
@@ -44,7 +44,7 @@ Before deleting, you will be asked if you want to delete, so you do n’t need t
 Press the soft key named Add on the left,the application will switch to the scan QR code page.
 
 ### Scan QR code interface
-![QR code scan](scan_qrcode.png)
+![QR code scan](scan_qrcode.webp)
 
 To use the QR-code scanning feature, the application requires permission for using the camera. A dialog will popup to ask you whether you are going to grant it or not.
 
