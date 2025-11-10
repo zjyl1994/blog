@@ -1,0 +1,33 @@
+<!-- Inject LXGW WenKai Light font and apply site-wide typography -->
+<link rel="stylesheet" href="https://chinese-fonts-cdn.deno.dev/packages/lxgwwenkai/dist/lxgwwenkai-light/result.css" />
+<style>
+  :root {
+    --font-cn: 'LXGW WenKai Light';
+  }
+  html, body {
+    font-family: var(--font-cn), system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+    font-weight: 400;
+  }
+  h1, h2 {
+    font-family: var(--font-cn), inherit;
+    font-weight: 600;
+  }
+  h3 {
+    font-family: var(--font-cn), inherit;
+    font-weight: 500;
+  }
+  h4, h5, h6 {
+    font-family: var(--font-cn), inherit;
+    font-weight: 500;
+  }
+  strong, b {
+    font-weight: 600;
+  }
+  code, pre, kbd, samp {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-weight: 400;
+  }
+  pre code, code pre {
+    font-weight: 400;
+  }
+</style>
